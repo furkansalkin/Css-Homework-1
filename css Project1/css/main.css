@@ -1,0 +1,20 @@
+h1{
+    color: red;}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: violet;
+}
+
+h4{
+    color: blue;
+}
+li{
+    color: chocolate;
+}
+p{
+    font-family: fantasy;
+}
+.text-yellow{
+    color: green;
+}
